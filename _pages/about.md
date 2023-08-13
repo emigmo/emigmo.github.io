@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 subtitle: <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a>. 
 
