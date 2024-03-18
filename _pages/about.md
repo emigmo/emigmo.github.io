@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-doctoral Researcher, <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a>. 
+subtitle: （杨超）, Post-doctoral Researcher, <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a>. 
 
 profile:
   align: right
