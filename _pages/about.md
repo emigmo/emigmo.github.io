@@ -12,7 +12,7 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-Selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
@@ -26,4 +26,3 @@ Previously, I received my Ph.D. in [Tsinghua University](https://www.tsinghua.ed
 <!-- If you are seeking any form of **academic cooperation** -->
 
 Please feel free to email me at yangchao [at] pjlab [dot] org [dot] cn.
-
