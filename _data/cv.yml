@@ -4,7 +4,7 @@
     - name: Full Name
       value: Chao Yang
     - name: Date of Birth
-      value: May 27, 1993
+      value: May, 1993
     - name: Languages
       value: Chinese, English
 
@@ -13,26 +13,14 @@
   contents:
     - title: PhD
       institution: Tsinghua University, Beijing, China 
-      year: 2022
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      year: 2018 - 2022
     - title: MSc
       institution: Tsinghua University, Beijing, China
-      year: 2018
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2015 - 2018
     - title: BSc
       institution: Sichuan University, Chengdu, China
-      year: 2015
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2011 - 2015
+
 
 - title: Experience
   type: time_table
@@ -41,55 +29,43 @@
       institution: Xiaomi corporation, Beijing, China
       mentor: Prof. Deli Zhao 
       year: 2018 - 2019
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Visiting Researcher
       institution: Tencent corporation, Shenzhen, China
       year: 2018
-      description:
-        - Description 1.
-        - Description 2.
-        - 
 
+# - title: Projects 
 
-- title: Projects 
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
