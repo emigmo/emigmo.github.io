@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two Paper accepted by CVPR 2024. :sparkles::sparkles:
+Two Papers accepted by CVPR 2024. :sparkles::sparkles:

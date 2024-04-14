@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A Offline RL Paper accepted by AAAI 2024. :sparkles::sparkles:
+One Offline RL Paper accepted by AAAI 2024. :sparkles::sparkles:
