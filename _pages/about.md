@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: \[杨超\], Post-doctoral Researcher, <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a>. 
+subtitle: 杨超, Post-doctoral Researcher, <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a>. 
 
 profile:
   align: right
@@ -23,9 +23,9 @@ Previously, I received my Ph.D. in [Tsinghua University](https://www.tsinghua.ed
 
 My research interest includes Large Language Model Safety, Multi-modal Large Model, and Robotic Embodied Intelligence.
 Some of my current research keywords can be found below:
-**Large Language Model**: Alignment and Finetuning, LLM Attack and Defense.
-**Multimodal LLM**: Vision and language Fusion, Video-QA, VQA.
-**Embodied Robotics**: Robotic Manipulation, Reinforcement and Imitation Learning.
+* **Large Language Model**: Alignment and Finetuning, LLM Attack and Defense.
+* **Multimodal LLM**: Vision and language Fusion, Video-QA, VQA.
+* **Embodied Robotics**: Robotic Manipulation, Reinforcement and Imitation Learning.
 
 <!-- If you are seeking any form of **academic cooperation** -->
 Please feel free to email me at yangchao [at] pjlab [dot] org [dot] cn.
