@@ -121,7 +121,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: LLM + academic 
+blog_name: LLM + Academic 
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: 探索学术前沿，聚焦实用技术
 permalink: /blog/:year/:title/
