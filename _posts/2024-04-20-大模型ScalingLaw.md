@@ -1,0 +1,64 @@
+---
+layout: post
+title:  大模型 Scaling Law
+date:   2024-04-22 10:00:00
+description: LLM pretraining, LLM scaling law
+tags: scaling law, pretraining
+featured: true
+
+authors:
+  - name: Chao
+    url: "emigmo.github.io"
+    affiliations:
+      name: Shanghai AI Lab
+
+# Optionally, you can add a table of contents to your post.
+# NOTES:
+#   - make sure that TOC names match the actual section names
+#     for hyperlinks within the post to work correctly.
+#   - we may want to automate TOC generation in the future using
+#     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
+toc:
+  - name: 前言
+  - name: 人工智能与人类价值观对齐的四层目标
+  - name: 人工智能对齐的三条路径总结
+  - name: 理想的大模型价值观对齐体系应具备三大特性
+  - name: BaseAlign算法：在基本价值空间中实现大模型对齐
+
+# Below is an example of injecting additional post-specific styles.
+# If you use this post as a template, delete this _styles block.
+_styles: >
+  .fake-img {
+    background: #bbb;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 12px;
+  }
+  .fake-img p {
+    font-family: monospace;
+    color: white;
+    text-align: left;
+    margin: 12px 0;
+    text-align: center;
+    font-size: 16px;
+  }
+---
+
+#### 前言
+
+随着人工智能技术的快速发展和能力的不断增强，大模型已经逐步应用于人们的日常生活。但这同时也带来了很多新的潜在风险，进一步凸显了大模型与人类价值观对齐问题的紧迫性。
+然而，人工智能应该与哪些价值观进行对齐？又该如何对齐？这些问题至今还没有明确的答案。
+
+为了解决这些挑战，微软亚洲研究院提出了价值观罗盘（Value Compass）项目，从交叉学科的角度切入，充分借鉴伦理学和社会学中的理论，以解决对价值观的定义、评测和对齐问题。
+本文将深度解析大模型价值观的对齐现状，并介绍微软亚洲研究院在这一领域取得的最新研究成果——基于施瓦茨人类基本价值理论的 BaseAlign 对齐算法。
+
+#### 人工智能与人类价值观对齐的四层目标
+
+“人工智能应该与什么价值观进行对齐？”这个问题起源于 AI 领域的规范博弈问题（specification problem）[3]，即“如何定义我们希望人工智能实现的目标（how do we define the purpose we desire from AI）?”因为设定不恰当的对齐目标可能会导致难以预料的后果。例如，当聊天机器人（chatbot）的对齐目标仅仅是遵循人类指令而不是保证人类利益最大化时，被要求言论自由的聊天机器人有可能输出辱骂性内容，这就违背了人类“避免输出有害言论”的价值观。
+
+#### 人工智能对齐的三条路径总结
+
+#### 理想的大模型价值观对齐体系应具备三大特性
+
+#### BaseAlign算法：在基本价值空间中实现大模型对齐
+
