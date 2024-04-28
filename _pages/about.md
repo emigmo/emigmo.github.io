@@ -28,4 +28,4 @@ Some of my current research keywords can be found below:
 * **Embodied Robotics**: Robotic Manipulation, Reinforcement and Imitation Learning.
 
 <!-- If you are seeking any form of **academic cooperation** -->
-Please feel free to email me at yangchao [at] pjlab [dot] org [dot] cn.
+Please feel free to email me at yangchao9264 [at] 126 [dot] cn or my GMAIL: yangchaoemigmo [at] gmail [dot] com. 
