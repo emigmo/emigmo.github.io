@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 杨超, Post-doctoral Researcher, <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a>. 
 
@@ -9,7 +9,6 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: yangchao@pjlab.org.cn
-
   google: 
 
 
@@ -22,13 +21,20 @@ social: true  # includes social icons at the bottom of the page
 I am Post-doctoral Researcher at [Shanghai AI Lab](https://www.shlab.org.cn/) (上海人工智能实验室),
 leading a fundamental Large Model Safety & Decision Intelligence research group. I am also co-working with [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN&oi=ao) from Shanghai AI Lab closely.
 
-Previously, I received my Ph.D. in [Tsinghua University](https://www.tsinghua.edu.cn/) in 2022, advised by [Prof. Fuchun Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4035.htm). I was fortunate enough to get the guidance of [Prof. Huaping Liu](https://sites.google.com/site/thuliuhuaping/) and [Prof. Wenbing Huang](https://scholar.google.com/citations?user=0yNkmO4AAAAJ&hl=zh-CN) when pursuing my doctoral degree. I graduated from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University with a master’s degree and from Sichuan University with a bachelor’s degree.
+Previously, I received my Ph.D. in [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in 2022, advised by [Prof. Fuchun Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4035.htm) and [Prof. Huaping Liu](https://sites.google.com/site/thuliuhuaping/). 
+<!-- I was also fortunate to receive my undergraduate degree from Sichuan University -->
+
+ <!-- I graduated from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University with a master’s degree and from Sichuan University with a bachelor’s degree. -->
+
+
+<!-- I was fortunate enough to get the guidance of  -->
+ <!-- and [Prof. Wenbing Huang](https://scholar.google.com/citations?user=0yNkmO4AAAAJ&hl=zh-CN) when pursuing my doctoral degree. -->
+<!-- I received my Ph.D. in Computer Science at University of California, Los Angeles (UCLA) -->
 
 My research interest includes Large Language Model Safety, Multi-modal Large Model, and Robotic Embodied Intelligence.
 Some of my current research keywords can be found below:
 * **Large Language Model**: LLM Alignment and Finetuning, LLM Attack and Defense.
 * **Multimodal LLM**: Vision and language Fusion, MLLM alignment, VQA.
-* **Embodied Robotics**: Robotic Manipulation, Reinforcement and Imitation Learning.
+* **Embodied Robotics**: Robotic Manipulation, Reinforcement Learning, Imitation Learning.
 
-If you are seeking any form of **academic cooperation**, Please feel free to email me at yangchao[at] pjlab [dot] org [dot] cn
-Please feel free to email me at yangchao9264 [at] 126 [dot] com or GMAIL: yangchaoemigmo [at] gmail [dot] com. 
+If you are seeking any form of **academic cooperation**, Please feel free to email me at yangchao[at] pjlab [dot] org [dot] cn. For other matters, please contact me at yangchao9264 [at] 126 [dot] com or yangchaoemigmo [at] gmail [dot] com. 
