@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  address: yangchao@pjlab.org.cn
+  address: yangchao9264@126.com
   google: 
 
 
@@ -37,4 +37,6 @@ Some of my current research keywords can be found below:
 * **Multimodal LLM**: Vision and language Fusion, MLLM alignment, VQA.
 * **Embodied Robotics**: Robotic Manipulation, Reinforcement Learning, Imitation Learning.
 
-If you are seeking any form of **academic cooperation**, Please feel free to email me at yangchao[at] pjlab [dot] org [dot] cn. For other matters, please contact me at yangchao9264 [at] 126 [dot] com or yangchaoemigmo [at] gmail [dot] com. 
+For **academic cooperation**, Please feel free to email me at *yangchao[at] pjlab [dot] org [dot] cn*.
+
+For other matters, please contact me at *yangchao9264 [at] 126 [dot] com* or *yangchaoemigmo [at] gmail [dot] com*. 
