@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-02-27
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Two Papers(LLaMA-Excitor, VideoDistill) are accepted by **CVPR 2024**. :sparkles::sparkles:

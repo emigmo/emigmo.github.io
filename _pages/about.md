@@ -2,24 +2,42 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 杨超, Research Scientist, <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yangchao.png
   image_circular: false # crops the image to make it circular
+  address: yangchao9264@126.com
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am Research Scientist at [Shanghai AI Lab](https://www.shlab.org.cn/) (上海人工智能实验室),
+leading a fundamental Large Model Safety & Decision Intelligence research group. I am also co-working with [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN&oi=ao) from Shanghai AI Lab closely.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Previously, I received my Ph.D. in [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in 2022, advised by Prof. Fuchun Sun and [Prof. Huaping Liu](https://sites.google.com/site/thuliuhuaping/). 
+<!-- I was also fortunate to receive my undergraduate degree from Sichuan University -->
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+ <!-- I graduated from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University with a master’s degree and from Sichuan University with a bachelor’s degree. -->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+<!-- I was fortunate enough to get the guidance of  -->
+ <!-- and [Prof. Wenbing Huang](https://scholar.google.com/citations?user=0yNkmO4AAAAJ&hl=zh-CN) when pursuing my doctoral degree. -->
+<!-- I received my Ph.D. in Computer Science at University of California, Los Angeles (UCLA) -->
+
+My research interest includes Large Language Model Safety, Multi-modal Large Model, and Robotic Embodied Intelligence.
+Some of my current research keywords can be found below:
+* **Large Language Model**: LLM Alignment and Finetuning, LLM Attack and Defense.
+* **Multimodal LLM**: Vision and language Fusion, MLLM alignment, VQA.
+* **Embodied Robotics**: Robotic Manipulation, Reinforcement Learning, Imitation Learning.
+
+For **academic cooperation**, Please feel free to email me at *yangchao[at] pjlab [dot] org [dot] cn*.
+
+For other matters, please contact me at *yangchao9264 [at] 126 [dot] com* or *yangchaoemigmo [at] gmail [dot] com*. 
