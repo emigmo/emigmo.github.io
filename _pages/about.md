@@ -30,8 +30,8 @@ Some of my current research keywords can be found below:
 * **Multimodal LLM**: Modality Fusion, Multimodal alignment, VQA.
 * **Embodied Robotics**: Robotic Manipulation, Reinforcement Learning, Imitation Learning.
 
-For **academic cooperation**, Please feel free to email me at *yangchao[at] pjlab [dot] org [dot] cn*.
-For other matters, please contact me at *yangchao9264 [at] 126 [dot] com* or *yangchaoemigmo [at] gmail [dot] com*. 
+For **Academic Cooperation**, please feel free to email me at *yangchao[at] pjlab [dot] org [dot] cn*.
+For other matters, please contact me at *yangchao9264 [at] 126 [dot] com* or *yangchaoemigmo [at] gmail [dot] com*.
 
 <!-- I was also fortunate to receive my undergraduate degree from Sichuan University -->
  <!-- I graduated from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University with a master’s degree and from Sichuan University with a bachelor’s degree. -->
