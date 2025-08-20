@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three Papers (Emulated Disalignment, Structured Reasoning, Multi-Objective DPO) are accepted by **ACL 2024**. More details is coming. :sparkles::sparkles:
+Three Papers (Emulated Disalignment, Structured Reasoning, Multi-Objective DPO) are accepted by **ACL 2024**.:sparkles::sparkles:
