@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-MM-SafetyBench (A Benchmark for Safety Evaluation of Multimodal Large Language Models) is accepted by **ECCV 2024**. [Here you go](https://isxinliu.github.io/Project/MM-SafetyBench/). :sparkles::sparkles:
+MM-SafetyBench (A Benchmark for Safety Evaluation of Multimodal Large Language Models) is accepted by **ECCV 2024**. [Project Page](https://isxinliu.github.io/Project/MM-SafetyBench/). :sparkles::sparkles:
