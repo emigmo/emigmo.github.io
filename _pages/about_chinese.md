@@ -49,14 +49,6 @@ social: false # includes social icons at the bottom of the page
 * 理论完备的观测模仿理论方法"Imitation learning from observations by minimizing inverse dynamics disagreement"
 * 为机器人高效技能学习提供了理论保障。
 
-
-## 联系方式
-
-### 学术合作
-请发邮件至 *yangchao [at] pjlab [dot] org [dot] cn*
-### 其他事宜
-请联系 *yangchao9264 [at] 126 [dot] com* 或 *yangchaoemigmo [at] gmail [dot] com*
-
 ---
 
 ## 使命愿景
