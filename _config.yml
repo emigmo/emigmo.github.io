@@ -132,8 +132,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Language Agent # blog_name will be displayed in your blog page
-blog_description: 探索学术前沿，聚焦实用技术
+blog_name: 杨超的个人博客（持续更新）  # blog_name will be displayed in your blog page
+blog_description: 不高估AI技术的短期价值，不低估AI技术的长期价值！
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -143,7 +143,7 @@ pagination:
 
 related_blog_posts:
   enabled: true
-  max_related: 5
+  max_related: 500
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
