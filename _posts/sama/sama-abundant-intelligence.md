@@ -1,5 +1,5 @@
-Abundant Intelligence
----
+## Abundant Intelligence
+
 Growth in the use of AI services has been astonishing; we expect it to be even more astonishing going forward.
 
 As AI gets smarter, access to AI will be a fundamental driver of the economy, and maybe eventually something we consider a fundamental human right. Almost everyone will want more AI working on their behalf.

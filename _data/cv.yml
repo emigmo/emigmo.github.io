@@ -19,7 +19,7 @@
       year: 2022.06 - 2024.07
     - title: Intern Researcher
       institution: Xiaomi corporation, Beijing, China
-      mentor: Prof. Deli Zhao 
+      mentor: Prof. Deli Zhao
       year: 2019.03 - 2019.9
     - title: Visiting Researcher
       institution: Tencent corporation, Shenzhen, China
@@ -29,10 +29,10 @@
   type: time_table
   contents:
     - title: Doctoral student --> Doctor of Philosophy
-      institution: Tsinghua University, Beijing, China 
+      institution: Tsinghua University, Beijing, China
       year: 2018.09 - 2022.06
     - title: Visiting Student
-      institution: University of Hamburg, Hamburg, Germany 
+      institution: University of Hamburg, Hamburg, Germany
       year: 2019.08 - 2019.09
     - title: Master student --> Master of Engineering
       institution: Tsinghua University, Beijing, China
@@ -40,9 +40,7 @@
     - title: Undergraduate --> Bachelor of Engineering
       institution: Sichuan University, Chengdu, China
       year: 2011.09 - 2015.06
-
-
-# - title: Projects 
+# - title: Projects
 
 # - title: Open Source Projects
 #   type: time_table
@@ -55,18 +53,18 @@
 #   type: time_table
 #   contents:
 #     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
+#       items:
+#         - Nobel Prize in Physics
 #         - Matteucci Medal
 #     - year: 2029
-#       items: 
+#       items:
 #         - Max Planck Medal
 
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
 #     - title: Topic 1.
-#       items: 
+#       items:
 #         - Description 1.
 #         - Description 2.
 #     - title: Topic 2.

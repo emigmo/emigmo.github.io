@@ -1,7 +1,4 @@
-
-
-The Gentle Singularity
----
+## The Gentle Singularity
 
 We are past the event horizon; the takeoff has started. Humanity is close to building digital superintelligence, and at least so far it’s much less weird than it seems like it should be.
 
@@ -29,7 +26,7 @@ We already hear from scientists that they are two or three times more productive
 
 From here on, the tools we have already built will help us find further scientific insights and aid us in creating better AI systems. Of course this isn’t the same thing as an AI system completely autonomously updating its own code, but nevertheless this is a larval version of recursive self-improvement.
 
-There are other self-reinforcing loops at play. The economic value creation has started a flywheel of compounding infrastructure buildout to run these increasingly-powerful AI systems. And robots that can build other robots (and in some sense, datacenters that can build other datacenters) aren’t that far off. 
+There are other self-reinforcing loops at play. The economic value creation has started a flywheel of compounding infrastructure buildout to run these increasingly-powerful AI systems. And robots that can build other robots (and in some sense, datacenters that can build other datacenters) aren’t that far off.
 
 If we have to make the first million humanoid robots the old-fashioned way, but then they can operate the entire supply chain—digging and refining minerals, driving trucks, running factories, etc.—to build more robots, which can build more chip fabrication facilities, data centers, etc, then the rate of progress will obviously be quite different.
 
@@ -58,4 +55,3 @@ OpenAI is a lot of things now, but before anything else, we are a superintellige
 Intelligence too cheap to meter is well within grasp. This may sound crazy to say, but if we told you back in 2020 we were going to be where we are today, it probably sounded more crazy than our current predictions about 2030.
 
 May we scale smoothly, exponentially and uneventfully through superintelligence.
-

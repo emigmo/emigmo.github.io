@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Chao
 middle_name:
-last_name: Yang 
+last_name: Yang
 email: yangchao [AT] pjlab [DOT] org [DOT] cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 杨超的个人博客（持续更新）  # blog_name will be displayed in your blog page
+blog_name: 杨超的个人博客（持续更新） # blog_name will be displayed in your blog page
 blog_description: 不高估AI技术的短期价值，不低估AI技术的长期价值！
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -148,7 +148,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: emigmo/emigmo.github.io  # <your-github-user-name>/<your-github-repo-name>
+  repo: emigmo/emigmo.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)

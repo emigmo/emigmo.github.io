@@ -1,5 +1,4 @@
-Reflections
----
+## Reflections
 
 The second birthday of ChatGPT was only a little over a month ago, and now we have transitioned into the next paradigm of models that can do complex reasoning. New years get people in a reflective mood, and I wanted to share some personal thoughts about how it has gone so far, and some of the things I’ve learned along the way.
 
@@ -27,7 +26,7 @@ These years have been the most rewarding, fun, best, interesting, exhausting, st
 
 A little over a year ago, on one particular Friday, the main thing that had gone wrong that day was that I got fired by surprise on a video call, and then right after we hung up the board published a blog post about it. I was in a hotel room in Las Vegas. It felt, to a degree that is almost impossible to explain, like a dream gone wrong.
 
-Getting fired in public with no warning kicked off a really crazy few hours, and a pretty crazy few days. The “fog of war” was the strangest part. None of us were able to get satisfactory answers about what had happened, or why. 
+Getting fired in public with no warning kicked off a really crazy few hours, and a pretty crazy few days. The “fog of war” was the strangest part. None of us were able to get satisfactory answers about what had happened, or why.
 
 The whole event was, in my opinion, a big failure of governance by well-meaning people, myself included. Looking back, I certainly wish I had done things differently, and I’d like to believe I’m a better, more thoughtful leader today than I was a year ago.
 
@@ -41,7 +40,7 @@ Nine years ago, we really had no idea what we were eventually going to become; e
 
 Some of the twists have been joyful; some have been hard. It’s been fun watching a steady stream of research miracles occur, and a lot of naysayers have become true believers. We’ve also seen some colleagues split off and become competitors. Teams tend to turn over as they scale, and OpenAI scales really fast. I think some of this is unavoidable—startups usually see a lot of turnover at each new major level of scale, and at OpenAI numbers go up by orders of magnitude every few months. The last two years have been like a decade at a normal company. When any company grows and evolves so fast, interests naturally diverge. And when any company in an important industry is in the lead, lots of people attack it for all sorts of reasons, especially when they are trying to compete with it.
 
-Our vision won’t change; our tactics will continue to evolve. For example, when we started we had no idea we would have to build a product company; we thought we were just going to do great research. We also had no idea we would need such a crazy amount of capital. There are new things we have to go build now that we didn’t understand a few years ago, and there will be new things in the future we can barely imagine now. 
+Our vision won’t change; our tactics will continue to evolve. For example, when we started we had no idea we would have to build a product company; we thought we were just going to do great research. We also had no idea we would need such a crazy amount of capital. There are new things we have to go build now that we didn’t understand a few years ago, and there will be new things in the future we can barely imagine now.
 
 We are proud of our track-record on research and deployment so far, and are committed to continuing to advance our thinking on safety and benefits sharing. We continue to believe that the best way to make an AI system safe is by iteratively and gradually releasing it into the world, giving society time to adapt and co-evolve with the technology, learning from experience, and continuing to make the technology safer. We believe in the importance of being world leaders on safety and alignment research, and in guiding that research with feedback from real world applications.
 

@@ -1,10 +1,8 @@
+## Three Observations
 
-Three Observations
----
+Our mission is to ensure that AGI (Artificial General Intelligence) benefits all of humanity.
 
-Our mission is to ensure that AGI (Artificial General Intelligence) benefits all of humanity. 
-
-Systems that start to point to AGI* are coming into view, and so we think it’s important to understand the moment we are in. AGI is a weakly defined term, but generally speaking we mean it to be a system that can tackle increasingly complex problems, at human level, in many fields.
+Systems that start to point to AGI\* are coming into view, and so we think it’s important to understand the moment we are in. AGI is a weakly defined term, but generally speaking we mean it to be a system that can tackle increasingly complex problems, at human level, in many fields.
 
 People are tool-builders with an inherent drive to understand and create, which leads to the world getting better for all of us. Each new generation builds upon the discoveries of the generations before to create even more capable tools—electricity, the transistor, the computer, the internet, and soon AGI.
 
@@ -18,7 +16,7 @@ We continue to see rapid progress with AI development. Here are three observatio
 
 1. The intelligence of an AI model roughly equals the log of the resources used to train and run it. These resources are chiefly training compute, data, and inference compute. It appears that you can spend arbitrary amounts of money and get continuous and predictable gains; the scaling laws that predict this are accurate over many orders of magnitude.
 
-2. The cost to use a given level of AI falls about 10x every 12 months, and lower prices lead to much more use. You can see this in the token cost from GPT-4 in early 2023 to GPT-4o in mid-2024, where the price per token dropped about 150x in that time period. Moore’s law changed the world at 2x every 18 months; this is unbelievably stronger. 
+2. The cost to use a given level of AI falls about 10x every 12 months, and lower prices lead to much more use. You can see this in the token cost from GPT-4 in early 2023 to GPT-4o in mid-2024, where the price per token dropped about 150x in that time period. Moore’s law changed the world at 2x every 18 months; this is unbelievably stronger.
 
 3. The socioeconomic value of linearly increasing intelligence is super-exponential in nature. A consequence of this is that we see no reason for exponentially increasing investment to stop in the near future.
 
@@ -34,7 +32,7 @@ In some ways, AI may turn out to be like the transistor economically—a big sci
 
 The world will not change all at once; it never does. Life will go on mostly the same in the short run, and people in 2025 will mostly spend their time in the same way they did in 2024. We will still fall in love, create families, get in fights online, hike in nature, etc.
 
-But the future will be coming at us in a way that is impossible to ignore, and the long-term changes to our society and economy will be huge. We will find new things to do, new ways to be useful to each other, and new ways to compete, but they may not look very much like the jobs of today. 
+But the future will be coming at us in a way that is impossible to ignore, and the long-term changes to our society and economy will be huge. We will find new things to do, new ways to be useful to each other, and new ways to compete, but they may not look very much like the jobs of today.
 
 Agency, willfulness, and determination will likely be extremely valuable. Correctly deciding what to do and figuring out how to navigate an ever-changing world will have huge value; resilience and adaptability will be helpful skills to cultivate. AGI will be the biggest lever ever on human willfulness, and enable individual people to have more impact than ever before, not less.
 
@@ -54,7 +52,6 @@ In particular, it does seem like the balance of power between capital and labor 
 
 Anyone in 2035 should be able to marshall the intellectual capacity equivalent to everyone in 2025; everyone should have access to unlimited genius to direct however they can imagine. There is a great deal of talent right now without the resources to fully express itself, and if we change that, the resulting creative output of the world will lead to tremendous benefits for us all.
 
-
 Thanks especially to Josh Achiam, Boaz Barak and Aleksander Madry for reviewing drafts of this.
 
-*By using the term AGI here, we aim to communicate clearly, and we do not intend to alter or interpret the definitions and processes that define our relationship with Microsoft. We fully expect to be partnered with Microsoft for the long term. This footnote seems silly, but on the other hand we know some journalists will try to get clicks by writing something silly so here we are pre-empting the silliness…
+\*By using the term AGI here, we aim to communicate clearly, and we do not intend to alter or interpret the definitions and processes that define our relationship with Microsoft. We fully expect to be partnered with Microsoft for the long term. This footnote seems silly, but on the other hand we know some journalists will try to get clicks by writing something silly so here we are pre-empting the silliness…
