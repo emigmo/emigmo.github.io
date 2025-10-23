@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jason Wei：理解2025年AI进展的三种关键思路
-date: 2025-01-22 10:00:00
+date: 2025-10-19 10:00:00
 description: 前OpenAI核心研究员、CoT作者Jason Wei在斯坦福的演讲精华：验证者定律、智能商品化与锯齿状边缘
 tags: AI LLM reasoning OpenAI Meta CoT
 categories: ai-insights

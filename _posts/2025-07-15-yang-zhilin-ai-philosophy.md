@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 杨植麟观点精华：AI时代的技术哲学与实践
+title: 杨植麟：AI时代的技术哲学与实践
 date: 2025-07-15 14:00:00
 description: 月之暗面创始人杨植麟关于AI发展的深度思考，从技术哲学到实践创新的全面洞察
 tags: AI philosophy LLM moonshot technology

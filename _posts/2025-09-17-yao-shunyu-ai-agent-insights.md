@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 姚顺雨AI与Agent研究观点集
+title: 姚顺雨：AI与Agent研究观点集
 date: 2025-09-17 10:00:00
 description: OpenAI研究员姚顺雨关于AI Agent发展的深度思考与独到见解
 tags: AI Agent LLM research

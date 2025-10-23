@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 强化学习之父：大语言模型走错了路，不符合「苦涩教训」精神
+title: Sutton：大语言模型走错了路，不符合「苦涩教训」精神
 date: 2025-09-29 16:00:00
 description: 2024年图灵奖得主Richard Sutton对LLM发展方向的深度批评与反思
 tags: reinforcement-learning LLM bitter-lesson AI-philosophy
