@@ -1,4 +1,23 @@
-# 学术论文写作指导
+---
+layout: post
+title: 学术论文写作指导：从"Hard to Follow"到高可读性
+date: 2025-01-15 10:00:00
+description: 顶会论文写作的实战建议，帮助研究者避免常见写作误区，提升论文质量与可读性
+tags: academic-writing research paper-writing
+categories: research-insights
+toc:
+  sidebar: left
+---
+
+## 前言
+
+几年间我主笔或大改了20篇左右的顶会论文,一开始是在清华的实验室里苦思冥想,被拒了好几次才有点长进,基本不会因为写作被秒拒了;后来实习和工作时,在帮实习生和学弟改文章的过程中也发现了一些常见问题。我想总结一些给顶会论文写作新手的建议。如果能帮助同学们少走弯路的话,我将不胜荣幸。
+
+这几条建议将分成上下两篇,每篇聚焦于如何避免收到一条致命的"恶评",分别是:
+- **(上)This paper is hard to follow**(宏观层面,谋篇布局,优化论文结构,卖出核心贡献)
+- **(下)The readability can be greatly improved**(微观层面,精耕细作,少犯常见的小错误)
+
+---
 
 ## 目录
 
