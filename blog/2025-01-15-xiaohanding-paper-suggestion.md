@@ -1,12 +1,9 @@
----
-layout: post
-title: 丁霄汉：学术论文写作指导--从"Hard to Follow"到高可读性
-date: 2025-01-15 10:00:00
-description: 顶会论文写作的实战建议，帮助研究者避免常见写作误区，提升论文质量与可读性
-tags: academic-writing research paper-writing
-categories: research-insights
-toc:
-  sidebar: left
+# 丁霄汉：学术论文写作指导--从"Hard to Follow"到高可读性
+
+_作者：丁霄汉_  
+_时间：2025年1月15日_  
+_来源：学术写作经验分享_
+
 ---
 
 ## 前言

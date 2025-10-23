@@ -1,12 +1,9 @@
----
-layout: post
-title: Patrick Hsu-Evo2华人科学家：虚拟细胞迈向GPT-2阶段，合成生物学将深刻改变世界
-date: 2025-09-29 16:00:00
-description: Arc Institute联合创始人Patrick Hsu博士深度解析AI生物学革命，虚拟细胞登月计划与未来科技融合前景
-tags: AI biology Evo2 virtual-cell synthetic-biology
-categories: ai-biology
-toc:
-  sidebar: left
+# Patrick Hsu-Evo2华人科学家：虚拟细胞迈向GPT-2阶段，合成生物学将深刻改变世界
+
+_访谈对象：Patrick Hsu（Arc Institute联合创始人、加州大学伯克利分校生物工程教授）_  
+_时间：2025年9月29日_  
+_来源：a16z深度访谈_
+
 ---
 
 ## 前言

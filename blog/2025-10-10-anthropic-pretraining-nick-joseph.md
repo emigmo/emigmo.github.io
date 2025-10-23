@@ -1,12 +1,9 @@
----
-layout: post
-title: Nick Joseph访谈：Anthropic预训练的核心思考与实践
-date: 2025-10-10 15:00:00
-description: Anthropic预训练团队负责人Nick Joseph详谈预训练策略、缩放定律、数据挑战与AI对齐的核心议题
-tags: AI LLM pretraining anthropic scaling-laws
-categories: ai-insights
-toc:
-  sidebar: left
+# Nick Joseph访谈：Anthropic预训练的核心思考与实践
+
+_访谈对象：Nick Joseph（Anthropic预训练团队负责人）_  
+_时间：2025年10月10日_  
+_来源：Y Combinator深度访谈_
+
 ---
 
 ## 前言

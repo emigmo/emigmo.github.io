@@ -1,12 +1,9 @@
----
-layout: post
-title: Church @ Nature：AI驱动蛋白质设计，革命性范式的全流程解析
-date: 2025-01-15 14:00:00
-description: 基于Nature期刊Church团队最新研究，深度解析AI如何重塑蛋白质设计的完整工作流程
-tags: AI protein-design computational-biology Nature research
-categories: research-insights
-toc:
-  sidebar: left
+# Church @ Nature：AI驱动蛋白质设计，革命性范式的全流程解析
+
+_研究团队：Church团队_  
+_时间：2025年1月15日_  
+_来源：Nature期刊最新研究_
+
 ---
 
 ## 前言

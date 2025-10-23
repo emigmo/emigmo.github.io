@@ -1,12 +1,9 @@
----
-layout: post
-title: Anthropic内部AI代码革命：现实还是炒作？开发者社区的深度质疑
-date: 2025-09-24 16:00:00
-description: 深度分析Anthropic联合创始人关于"工程师不再写代码"的争议性言论，以及开发者社区的强烈反弹和质疑
-tags: AI programming Anthropic Claude development
-categories: ai-development
-toc:
-  sidebar: left
+# Anthropic内部AI代码革命：现实还是炒作？开发者社区的深度质疑
+
+_分析对象：Anthropic联合创始人Dario Amodei、Jack Clark_  
+_时间：2025年9月24日_  
+_来源：开发者社区深度分析_
+
 ---
 
 ## 前言
