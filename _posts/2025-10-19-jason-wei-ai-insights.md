@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Jason Wei：理解2025年AI进展的三种关键思路"
+date: 2025-10-19
+categories: blog
+---
+
 # Jason Wei：理解2025年AI进展的三种关键思路
 
 _演讲者：Jason Wei（前OpenAI核心研究员、CoT作者）_  

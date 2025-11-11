@@ -1,3 +1,10 @@
+---
+layout: post
+title: "DeepMind科学负责人深度访谈：如何筛选并攻克变革性挑战"
+date: 2025-07-15
+categories: blog
+---
+
 # DeepMind科学负责人深度访谈：如何筛选并攻克变革性挑战
 
 _访谈对象：Pushmeet Kohli（Google DeepMind科学负责人）_  

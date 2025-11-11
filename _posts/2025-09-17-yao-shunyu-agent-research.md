@@ -1,3 +1,10 @@
+---
+layout: post
+title: "姚顺雨：AI与Agent研究观点集"
+date: 2025-09-17
+categories: blog
+---
+
 # 姚顺雨：AI与Agent研究观点集
 
 _作者：姚顺雨（OpenAI研究员）_  

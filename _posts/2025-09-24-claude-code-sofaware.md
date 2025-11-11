@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Anthropic内部AI代码革命：现实还是炒作？开发者社区的深度质疑"
+date: 2025-09-24
+categories: blog
+---
+
 # Anthropic内部AI代码革命：现实还是炒作？开发者社区的深度质疑
 
 _分析对象：Anthropic联合创始人Dario Amodei、Jack Clark_  

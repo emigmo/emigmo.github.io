@@ -1,3 +1,10 @@
+---
+layout: post
+title: "OpenAI姚顺雨深度访谈：AI下半场的Agent革命"
+date: 2025-07-15
+categories: blog
+---
+
 # OpenAI姚顺雨深度访谈：AI下半场的Agent革命
 
 _主持人：张小珺、广密_  

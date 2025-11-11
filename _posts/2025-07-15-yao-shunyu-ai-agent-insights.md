@@ -1,3 +1,10 @@
+---
+layout: post
+title: "姚顺雨AI与Agent研究观点集"
+date: 2025-07-15
+categories: blog
+---
+
 # 姚顺雨AI与Agent研究观点集
 
 _整理者：张小珺_  

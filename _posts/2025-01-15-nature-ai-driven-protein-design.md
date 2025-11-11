@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Church @ Nature：AI驱动蛋白质设计，革命性范式的全流程解析"
+date: 2025-01-15
+categories: blog
+---
+
 # Church @ Nature：AI驱动蛋白质设计，革命性范式的全流程解析
 
 _研究团队：Church团队_  

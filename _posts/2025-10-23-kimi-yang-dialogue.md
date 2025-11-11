@@ -1,3 +1,10 @@
+---
+layout: post
+title: "KIMI创始人杨植麟深度访谈：攀登无限之山"
+date: 2025-10-23
+categories: blog
+---
+
 # KIMI创始人杨植麟深度访谈：攀登无限之山
 
 _主持人：张小珺_  

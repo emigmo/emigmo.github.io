@@ -1,3 +1,10 @@
+---
+layout: post
+title: "丁霄汉：学术论文写作指导--从"Hard to Follow"到高可读性"
+date: 2025-01-15
+categories: blog
+---
+
 # 丁霄汉：学术论文写作指导--从"Hard to Follow"到高可读性
 
 _作者：丁霄汉_  

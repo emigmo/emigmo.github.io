@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Nick Joseph访谈：Anthropic预训练的核心思考与实践"
+date: 2025-10-10
+categories: blog
+---
+
 # Nick Joseph访谈：Anthropic预训练的核心思考与实践
 
 _访谈对象：Nick Joseph（Anthropic预训练团队负责人）_  

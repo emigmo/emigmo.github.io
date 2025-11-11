@@ -1,12 +1,17 @@
 ---
 layout: post
-title: Sutton：大语言模型走错了路，不符合「苦涩教训」精神
-date: 2025-09-29 16:00:00
-description: 2024年图灵奖得主Richard Sutton对LLM发展方向的深度批评与反思
-tags: reinforcement-learning LLM bitter-lesson AI-philosophy
-categories: research-insights
-toc:
-  sidebar: left
+title: "Sutton：大语言模型走错了路，不符合「苦涩教训」精神"
+date: 2025-09-29
+categories: blog
+---
+
+# Sutton：大语言模型走错了路，不符合「苦涩教训」精神
+
+_访谈对象：Richard Sutton（2024年图灵奖得主、强化学习创始人）_  
+_主持人：Dwarkesh Patel_  
+_时间：2025年9月29日_  
+_来源：播客访谈_
+
 ---
 
 ## 前言
