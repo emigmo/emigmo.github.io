@@ -67,7 +67,7 @@ _原文链接：https://zhuanlan.zhihu.com/p/1969435547006133543_
 - 知识捕获时间：20分钟 → 2分钟（-90%）
 - 笔记交叉链接：1.2个 → 4.8个（+300%）
 
-配置文件：[daylog.md](./commands/daylog.md)
+配置文件：daylog.md
 
 ### 2. /research-snap - 知识综合
 **理论基础**：循证决策（Evidence-Based Decision Making）  
@@ -77,7 +77,7 @@ _原文链接：https://zhuanlan.zhihu.com/p/1969435547006133543_
 - 引用数量：2-3个 → 8-12个（+300%）
 - 引用完整度：50% → 100%
 
-配置文件：[research-snap.md](./commands/research-snap.md)
+配置文件：research-snap.md
 
 ### 3. /topic-outline - 结构设计
 **理论基础**：认知负荷理论（Cognitive Load Theory）  
@@ -87,7 +87,7 @@ _原文链接：https://zhuanlan.zhihu.com/p/1969435547006133543_
 - 文章完读率：42% → 53%（+26%）
 - 互动率：3.2% → 4.8%（+50%）
 
-配置文件：[topic-outline.md](./commands/topic-outline.md)
+配置文件：topic-outline.md
 
 ### 4. /content-draft - 内容生成
 **理论基础**：Flower & Hayes 写作认知过程模型  
@@ -96,7 +96,7 @@ _原文链接：https://zhuanlan.zhihu.com/p/1969435547006133543_
 - 初稿撰写时间：120分钟 → 60分钟（-50%）
 - 引用遗漏率：20% → 5%（-75%）
 
-配置文件：[content-draft.md](./commands/content-draft.md)
+配置文件：content-draft.md
 
 ### 5. /reply-kit - 互动管理
 **理论基础**：共情沟通（Empathetic Communication）  
@@ -105,7 +105,7 @@ _原文链接：https://zhuanlan.zhihu.com/p/1969435547006133543_
 - 回复时间（10条）：30分钟 → 6分钟（-80%）
 - 二次互动率：12% → 28%（+133%）
 
-配置文件：[reply-kit.md](./commands/reply-kit.md)
+配置文件：reply-kit.md
 
 ## 工作流程示例
 
