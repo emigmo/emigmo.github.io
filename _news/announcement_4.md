@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One Offline RL Paper accepted by **AAAI 2024**. :sparkles::sparkles:
+**[AAAI2024]** One Offline RL Paper [Critic-Guided Decision Transformer for Offline Reinforcement Learning](https://arxiv.org/abs/2312.13716) accepted by AAAI 2024. :sparkles::sparkles:

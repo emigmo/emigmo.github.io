@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One LLM safety survey paper accepted by **NAACL 2024**. :sparkles: :smile:
+**[NAACL2024]** One LLM safety survey paper [Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey](https://arxiv.org/abs/2402.09283) accepted by NAACL 2024. :sparkles: :smile:

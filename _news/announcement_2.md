@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One Paper accepted by **IJCAI 2024** Survey Track. :sparkles::sparkles:
+**[IJCAI2024]** One Paper [Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey](https://arxiv.org/abs/2402.09283) accepted by IJCAI 2024 Survey Track. :sparkles::sparkles:
