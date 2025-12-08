@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "那些"无聊"的AI细分市场,正在批量创造百万富翁"
+title: '那些"无聊"的AI细分市场,正在批量创造百万富翁'
 date: 2025-12-04
 categories: blog
 ---
