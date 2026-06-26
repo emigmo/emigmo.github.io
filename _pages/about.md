@@ -23,7 +23,7 @@ leading a Fundamental Large Model Safety & Decision Intelligence research group.
 
 Recently, I have completed my postdoctoral fellowship under the guidance of Professor [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN&oi=ao) , where my research focused on the security aspects of large-scale models. My work delved into the vulnerabilities and defense mechanisms associated with AI systems, particularly in the context of large language models and their applications.
 
-Previously, I received my Ph.D. in [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in 2022, advised by [Prof. Fuchun Sun](https://scholar.google.com/citations?hl=en&user=DbviELoAAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Huaping Liu](https://sites.google.com/site/thuliuhuaping/).
+Previously, I received my Ph.D. in [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in 2022, advised by [Prof. Fuchun Sun](https://scholar.google.com/citations?user=DbviELoAAAAJ&hl=en) and [Prof. Huaping Liu](https://sites.google.com/site/thuliuhuaping/).
 
 My research interest includes Large Language Model Safety, Multi-modal Large Model, and Robotic Embodied Intelligence for Trustworthy AGI.
 Some of my current research keywords can be found below:

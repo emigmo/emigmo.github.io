@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 ## 个人简介
 
-现就职于[上海人工智能实验室](https://www.shlab.org.cn/)，担任青年科学家，主要负责大模型与智能体算法相关研究。于2022年6月博士毕业于[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)，师从[孙富春教授](https://scholar.google.com/citations?hl=en&user=DbviELoAAAAJ&view_op=list_works&sortby=pubdate)和[刘华平教授](https://sites.google.com/site/thuliuhuaping/)。此前，我还在[乔宇教授](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN&oi=ao)的指导下完成了博士后研究，专注于大语言模型的安全相关研究。
+现就职于[上海人工智能实验室](https://www.shlab.org.cn/)，担任青年科学家，主要负责大模型与智能体算法相关研究。于2022年6月博士毕业于[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)，师从[孙富春教授](https://scholar.google.com/citations?user=DbviELoAAAAJ&hl=en)和[刘华平教授](https://sites.google.com/site/thuliuhuaping/)。此前，我还在[乔宇教授](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=zh-CN&oi=ao)的指导下完成了博士后研究，专注于大语言模型的安全相关研究。
 
 ## 研究方向
 
