@@ -26,7 +26,7 @@ social: false # includes social icons at the bottom of the page
 
 我的研究兴趣主要集中在以下几个方面：
 
-- **大语言模型安全**：大模型后训练与安全对齐、大模型攻击与防御
+- **智能体系统**：Harness Agent，Agentic RL，Agent Safety
 - **多模态大模型**：模态融合、多模态对齐、视觉问答
 - **机器人具身智能**：机器人操作、强化学习、模仿学习
 

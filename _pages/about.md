@@ -28,7 +28,7 @@ Previously, I received my Ph.D. in [Department of Computer Science and Technolog
 My research interest includes Large Language Model Safety, Multi-modal Large Model, and Robotic Embodied Intelligence for Trustworthy AGI.
 Some of my current research keywords can be found below:
 
-- **Large Language Model**: LLM Post-training and Safety Alignment, LLM Attack and Defense.
+- **Agentic System**: Harness Agent, Agentic RL, and Agent Safety.
 - **Multimodal LLM**: Modality Fusion, Multimodal alignment, VQA.
 - **Embodied Robotics**: Robotic Manipulation, Reinforcement Learning, Imitation Learning.
 
