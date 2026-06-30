@@ -221,20 +221,34 @@
   {% endif %}
 
   <script type="application/ld+json">
+    {% if page.description %}
+      {% assign seo_description = page.description %}
+    {% elsif site.description %}
+      {% assign seo_description = site.description %}
+    {% else %}
+      {% assign seo_description = "" %}
+    {% endif %}
+
+    {% if page.title %}
+      {% assign seo_headline = page.title %}
+    {% else %}
+      {% assign seo_headline = site.title %}
+    {% endif %}
+
     {
         "author":
         {
             "@type": "Person",
-            "name": "{{ author_name }}"
+            "name": {{ author_name | jsonify }}
         },
         "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
         "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
-        "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
-        "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
+        "description": {{ seo_description | jsonify }},
+        "headline": {{ seo_headline | jsonify }},
         {% if sameaslinks != blank %}
         "sameAs": {{ sameaslinks }},
         {% endif %}
-        "name": "{{ author_name }}",
+        "name": {{ author_name | jsonify }},
         "@context": "https://schema.org"
     }
   </script>
