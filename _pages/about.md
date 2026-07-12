@@ -25,6 +25,8 @@ Recently, I have completed my postdoctoral fellowship under the guidance of Prof
 
 Previously, I received my Ph.D. in [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in 2022, advised by [Prof. Fuchun Sun](https://scholar.google.com/citations?user=DbviELoAAAAJ&hl=en) and [Prof. Huaping Liu](https://sites.google.com/site/thuliuhuaping/).
 
+<div class="clearfix"></div>
+
 My research interest includes Large Language Model Safety, Multi-modal Large Model, and Robotic Embodied Intelligence for Trustworthy AGI.
 Some of my current research keywords can be found below:
 

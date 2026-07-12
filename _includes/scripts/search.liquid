@@ -30,11 +30,11 @@
         {%- if page.permalink == '/' -%}{%- assign about_title = page.title | strip -%}{%- endif -%}
       {%- endfor -%}
       {
-        id: "nav-{{ about_title | slugify }}",
+        id: {{ about_title | slugify | prepend: "nav-" | jsonify }},
         title: {{ about_title | truncatewords: 13 | jsonify }},
         section: "Navigation",
         handler: () => {
-          window.location.href = "{{ '/' | relative_url }}";
+          window.location.href = {{ '/' | relative_url | jsonify }};
         },
       },
       {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
@@ -46,12 +46,12 @@
                 {
                 {%- assign title = child.title | escape | strip -%}
                 {%- if child.permalink contains "/blog/" -%}{%- assign url = "/blog/" -%} {%- else -%}{%- assign url = child.url -%}{%- endif -%}
-                id: "dropdown-{{ title | slugify }}",
+                id: {{ title | slugify | prepend: "dropdown-" | jsonify }},
                   title: {{ title | truncatewords: 13 | jsonify }},
-                  description: "{{ child.description | strip_html | strip_newlines | escape | strip }}",
+                  description: {{ child.description | strip_html | strip_newlines | strip | jsonify }},
                   section: "Dropdown",
                   handler: () => {
-                    window.location.href = "{{ url | relative_url }}";
+                    window.location.href = {{ url | relative_url | jsonify }};
                   },
                 },
               {%- endunless -%}
@@ -61,12 +61,12 @@
             {
               {%- assign title = p.title | escape | strip -%}
               {%- if p.permalink contains "/blog/" -%}{%- assign url = "/blog/" -%} {%- else -%}{%- assign url = p.url -%}{%- endif -%}
-              id: "nav-{{ title | slugify }}",
+              id: {{ title | slugify | prepend: "nav-" | jsonify }},
               title: {{ title | truncatewords: 13 | jsonify }},
-              description: "{{ p.description | strip_html | strip_newlines | escape | strip }}",
+              description: {{ p.description | strip_html | strip_newlines | strip | jsonify }},
               section: "Navigation",
               handler: () => {
-                window.location.href = "{{ url | relative_url }}";
+                window.location.href = {{ url | relative_url | jsonify }};
               },
             },
           {%- endif -%}
@@ -75,7 +75,7 @@
       {%- for post in site.posts -%}
         {
           {%- assign title = post.title | strip -%}
-          id: "post-{{ title | slugify }}",
+          id: {{ title | slugify | prepend: "post-" | jsonify }},
           {% if post.redirect == blank %}
             title: {{ title | truncatewords: 13 | jsonify }},
           {% elsif post.redirect contains '://' %}
@@ -83,15 +83,15 @@
           {% else %}
             title: {{ title | truncatewords: 13 | jsonify }},
           {% endif %}
-          description: "{{ post.description | strip_html | strip_newlines | escape | strip }}",
+          description: {{ post.description | strip_html | strip_newlines | strip | jsonify }},
           section: "Posts",
           handler: () => {
             {% if post.redirect == blank %}
-              window.location.href = "{{ post.url | relative_url }}";
+              window.location.href = {{ post.url | relative_url | jsonify }};
             {% elsif post.redirect contains '://' %}
-              window.open("{{ post.redirect }}", "_blank");
+              window.open({{ post.redirect | jsonify }}, "_blank");
             {% else %}
-              window.location.href = "{{ post.redirect | relative_url }}";
+              window.location.href = {{ post.redirect | relative_url | jsonify }};
             {% endif %}
           },
         },
@@ -105,13 +105,13 @@
               {%- else -%}
                 {%- assign title = item.title | newline_to_br | replace: "<br />", " " | replace: "<br/>", " " | strip_html | strip_newlines | escape | strip -%}
               {%- endif -%}
-              id: "{{ collection.label }}-{{ title | slugify }}",
+              id: {{ title | slugify | prepend: "-" | prepend: collection.label | jsonify }},
               title: {{ title | emojify | truncatewords: 13 | jsonify }},
-              description: "{{ item.description | strip_html | strip_newlines | escape | strip }}",
-              section: "{{ collection.label | capitalize }}",
+              description: {{ item.description | strip_html | strip_newlines | strip | jsonify }},
+              section: {{ collection.label | capitalize | jsonify }},
               {%- unless item.inline -%}
                 handler: () => {
-                  window.location.href = "{{ item.url | relative_url }}";
+                  window.location.href = {{ item.url | relative_url | jsonify }};
                 },
               {%- endunless -%}
             },
