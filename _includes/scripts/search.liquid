@@ -106,7 +106,7 @@
                 {%- assign title = item.title | newline_to_br | replace: "<br />", " " | replace: "<br/>", " " | strip_html | strip_newlines | escape | strip -%}
               {%- endif -%}
               id: {{ title | slugify | prepend: "-" | prepend: collection.label | jsonify }},
-              title: {{ title | emojify | truncatewords: 13 | jsonify }},
+              title: {{ title | truncatewords: 13 | jsonify }},
               description: {{ item.description | strip_html | strip_newlines | strip | jsonify }},
               section: {{ collection.label | capitalize | jsonify }},
               {%- unless item.inline -%}
