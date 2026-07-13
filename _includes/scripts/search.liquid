@@ -105,6 +105,7 @@
               {%- else -%}
                 {%- assign title = item.title | newline_to_br | replace: "<br />", " " | replace: "<br/>", " " | strip_html | strip_newlines | escape | strip -%}
               {%- endif -%}
+              {%- assign title = title | regex_replace: ':[-A-Za-z0-9_+]+:', '' | strip -%}
               id: {{ title | slugify | prepend: "-" | prepend: collection.label | jsonify }},
               title: {{ title | truncatewords: 13 | jsonify }},
               description: {{ item.description | strip_html | strip_newlines | strip | jsonify }},
