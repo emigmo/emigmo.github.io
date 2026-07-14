@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[CVPR2024]** Two Papers([LLaMA-Excitor](https://openaccess.thecvf.com/content/CVPR2024/papers/Zou_LLaMA-Excitor_General_Instruction_Tuning_via_Indirect_Feature_Interaction_CVPR_2024_paper.pdf), [VideoDistill](https://arxiv.org/abs/2404.00973)) are accepted by CVPR 2024. :sparkles::sparkles:
+**[CVPR 2024]** Our paper “[VideoDistill: Language-aware Vision Distillation for Video Question Answering](https://arxiv.org/abs/2404.00973)” has been accepted to CVPR 2024. It introduces a language-aware VideoQA framework with question-guided sparse frame sampling and visual refinement to focus answer generation on relevant visual evidence. :sparkles:

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[ECCV2024]** [MM-SafetyBench](https://arxiv.org/abs/2311.17600) (A Benchmark for Safety Evaluation of Multimodal Large Language Models) is accepted by ECCV 2024. :sparkles::sparkles:
+**[ECCV 2024]** Our paper “[MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models](https://arxiv.org/abs/2311.17600)” has been accepted to ECCV 2024. It provides a safety benchmark for evaluating multimodal language models against image-based manipulations across a broad set of harmful scenarios. :sparkles:

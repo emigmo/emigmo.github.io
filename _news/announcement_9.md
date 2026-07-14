@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[NeurIPS2024]** Weak-to-Strong Search: Align Large Language Models via Searching over Small Language Models is accepted by NeurIPS 2024. [NeurIPS Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/088d99765bc121c6df215da7d45bc4e9-Paper-Conference.pdf) :sparkles::sparkles:
+**[NeurIPS 2024]** Our paper “[Weak-to-Strong Search: Align Large Language Models via Searching over Small Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/088d99765bc121c6df215da7d45bc4e9-Abstract-Conference.html)” has been accepted to NeurIPS 2024. It aligns a frozen large language model at inference time by searching with the log-probability difference between smaller tuned and untuned models. :sparkles:

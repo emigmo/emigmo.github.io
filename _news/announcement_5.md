@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024.5.2
+date: 2024-05-02
 inline: true
 related_posts: false
 ---
 
-**[ICML2024]** [RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis](https://arxiv.org/abs/2402.16117) is accepted by ICML 2024. :sparkles::sparkles:
+**[ICML 2024]** Our paper “[RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis](https://arxiv.org/abs/2402.16117)” has been accepted to ICML 2024. It uses tree-structured multimodal code generation to decompose instructions into object-centric manipulation units and synthesize robot behaviors across platforms. :sparkles:

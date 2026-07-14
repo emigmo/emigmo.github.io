@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[EMNLP2024]** Inference-Time Language Model Alignment via Integrated Value Guidance is accepted by EMNLP 2024. [Arixv Link](https://arxiv.org/pdf/2409.17819) :sparkles::sparkles:
+**[Findings of EMNLP 2024]** Our paper “[Inference-Time Language Model Alignment via Integrated Value Guidance](https://arxiv.org/abs/2409.17819)” has been accepted to Findings of EMNLP 2024. It guides decoding with implicit and explicit value functions at the token and chunk levels, enabling alignment without fine-tuning the target language model. :sparkles:

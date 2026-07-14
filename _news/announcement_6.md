@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[ACL2024]** Three Papers ([Emulated Disalignment](https://arxiv.org/abs/2402.12343), [SEER: Structured Reasoning](https://arxiv.org/abs/2401.13246), [Multi-Objective DPO](https://arxiv.org/abs/2310.03708)) are accepted by ACL 2024.:sparkles::sparkles:
+**[ACL 2024 Outstanding Paper Award · Oral]** Our paper “[Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!](https://arxiv.org/abs/2402.12343)” has been accepted to ACL 2024 as an oral presentation and received an Outstanding Paper Award. It presents a training-free attack that contrasts aligned and pretrained output distributions to expose a vulnerability in safety alignment. :sparkles:
