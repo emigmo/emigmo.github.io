@@ -181,47 +181,6 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
-// Academic cooperation project links
-
-.cooperation-projects {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.625rem;
-  margin: 0 0 1rem;
-}
-
-.cooperation-project {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  max-width: 100%;
-  padding: 0.625rem 0.75rem;
-  border: 1px solid var(--global-divider-color);
-  border-radius: 0.5rem;
-  background-color: var(--global-card-bg-color);
-  font-size: 0.875rem;
-  line-height: 1.4;
-
-  &:hover,
-  &:focus-visible {
-    border-color: var(--global-theme-color);
-    text-decoration: none;
-  }
-
-  &:focus-visible {
-    outline: 2px solid var(--global-theme-color);
-    outline-offset: 2px;
-  }
-
-  .cooperation-project-icon {
-    flex-shrink: 0;
-    width: 1.5rem;
-    color: var(--global-theme-color);
-    font-size: 1.375rem;
-    text-align: center;
-  }
-}
-
 // Profile
 
 .profile {

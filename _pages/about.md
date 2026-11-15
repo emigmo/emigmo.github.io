@@ -14,6 +14,16 @@ news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+homepage_projects:
+  - title: A3S-OS
+    description: 面向智能体开发的统一平台，提供编程智能体与可扩展工具入口。
+    redirect: https://a3s-lab.discovery.intern-ai.org.cn/
+  - title: 科学发现平台
+    description: 以推理驱动的多智能体框架支持跨学科科学研究与自主科学发现。
+    redirect: https://a3s-lab.discovery.intern-ai.org.cn/apps/science-discovery/
+  - title: 生物育种
+    description: 面向作物基因功能研究与分子设计育种的自主科学发现系统。
+    redirect: https://a3s-lab.discovery.intern-ai.org.cn/apps/duanyan-breeding/
 ---
 
 I am Research Scientist at [Shanghai AI Lab](https://www.shlab.org.cn/) (上海人工智能实验室),
@@ -35,21 +45,6 @@ Some of my current research keywords can be found below:
 - **Embodied Robotics**: Robotic Manipulation, Reinforcement Learning, Imitation Learning.
 
 For **Academic Cooperation**, please feel free to email me at _yangchao[at] pjlab [dot] org [dot] cn_.
-
-<nav class="cooperation-projects" aria-label="科研项目入口">
-  <a class="cooperation-project" href="https://a3s-lab.discovery.intern-ai.org.cn/">
-    <i class="fa-solid fa-cubes cooperation-project-icon" aria-hidden="true"></i>
-    <span>A3S-OS</span>
-  </a>
-  <a class="cooperation-project" href="https://a3s-lab.discovery.intern-ai.org.cn/apps/science-discovery/">
-    <i class="fa-solid fa-flask cooperation-project-icon" aria-hidden="true"></i>
-    <span>科学发现平台 Web 入口</span>
-  </a>
-  <a class="cooperation-project" href="https://a3s-lab.discovery.intern-ai.org.cn/apps/duanyan-breeding/">
-    <i class="fa-solid fa-seedling cooperation-project-icon" aria-hidden="true"></i>
-    <span>生物育种</span>
-  </a>
-</nav>
 
 For other matters, please contact me at _yangchao9264 [at] 126 [dot] com_ or _yangchaoemigmo [at] gmail [dot] com_.
 

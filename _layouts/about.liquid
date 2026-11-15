@@ -40,6 +40,18 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Homepage projects -->
+    {% if page.homepage_projects %}
+      <h2>Project</h2>
+      <ul>
+        {% for project in page.homepage_projects %}
+          <li>
+            <a href="{{ project.redirect }}">{{ project.title }}</a>: {{ project.description }}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
