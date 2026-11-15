@@ -35,6 +35,22 @@ Some of my current research keywords can be found below:
 - **Embodied Robotics**: Robotic Manipulation, Reinforcement Learning, Imitation Learning.
 
 For **Academic Cooperation**, please feel free to email me at _yangchao[at] pjlab [dot] org [dot] cn_.
+
+<nav class="cooperation-projects" aria-label="科研项目入口">
+  <a class="cooperation-project" href="https://a3s-lab.discovery.intern-ai.org.cn/">
+    <i class="fa-solid fa-cubes cooperation-project-icon" aria-hidden="true"></i>
+    <span>A3S-OS</span>
+  </a>
+  <a class="cooperation-project" href="https://a3s-lab.discovery.intern-ai.org.cn/apps/science-discovery/">
+    <i class="fa-solid fa-flask cooperation-project-icon" aria-hidden="true"></i>
+    <span>科学发现平台 Web 入口</span>
+  </a>
+  <a class="cooperation-project" href="https://a3s-lab.discovery.intern-ai.org.cn/apps/duanyan-breeding/">
+    <i class="fa-solid fa-seedling cooperation-project-icon" aria-hidden="true"></i>
+    <span>生物育种</span>
+  </a>
+</nav>
+
 For other matters, please contact me at _yangchao9264 [at] 126 [dot] com_ or _yangchaoemigmo [at] gmail [dot] com_.
 
 <!-- I was also fortunate to receive my undergraduate degree from Sichuan University -->
